@@ -1,2 +1,3 @@
 # hello-world
-Tutorial repository
+Tutorial repository.
+Nothing more than just that.
